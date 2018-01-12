@@ -12,7 +12,8 @@
 - Set Up Master Branch.
 - Reviewed / Edited Final Mockups.
 - Helped choose the Bootstrap Theme.
--Implemented Comments in the html with the issues.
+- Implemented Comments in the html with the issues.
+- Added pagination on schedule.html page for faster navigation.
 
 # Scott Windrem - (Team Second)
 - Wrote and Implemented Design and Code into the Professors.html page.
